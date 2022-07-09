@@ -1,0 +1,1 @@
+Get pull can be used to get changes committed by a different user.
